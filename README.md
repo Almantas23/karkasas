@@ -19,3 +19,4 @@ Website about Astronomy.
     1) Stars;
     2) Planets and moons of the planets;
     3) Galaxies.
+14. There will be a category of events like northen lights and such.
