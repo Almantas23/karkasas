@@ -7,16 +7,16 @@ Website about Astronomy.
 2. Website will have wallpapers category.
 3. Website will have news category.
 4. Website will have search.
-5. Website will have contacts (information about the Owner of this site).
-6. Registered user can add news feeds.
-7. Registered user can comment on news feeds.
-8. Registered user can add new wallpapers.
-9. Registered user can comment on wallpapers.
-10. Unregistered users can read news feed.
-11. Unregistered users can display wallpapers
-12. There will be a live chat for registered users.
-13. There will be a category with interesting facts about:
-    1) Stars;
-    2) Planets and moons of the planets;
-    3) Galaxies.
+5. Registered user can read and add news.
+6. Registered user can read and post news.
+7. Registered user can read and add new wallpapers.
+8. Registered user can read and add new videos.
+9. Unregistered users can read news feed.
+10. Unregistered users can read interesting stuff.
+11. Unregistered users can display wallpapers.
+12. Unregistered users can watch videos.
+13. There will be a category with interesting facts/stuff.
 14. There will be a category of events like northen lights and such.
+15. Registered users can read and add new event.
+16. Unregistered users can read events.
+17. Users can recover passwords if they forget them.
